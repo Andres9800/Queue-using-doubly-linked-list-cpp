@@ -1,0 +1,3 @@
+C:/Users/adsc9/CLionProjects/Cola Lista Doble Generica/cmake-build-debug/CMakeFiles/Cola_Lista_Doble_Generica.dir
+C:/Users/adsc9/CLionProjects/Cola Lista Doble Generica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adsc9/CLionProjects/Cola Lista Doble Generica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
